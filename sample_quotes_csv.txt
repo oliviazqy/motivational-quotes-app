@@ -1,0 +1,51 @@
+text,author,category
+"The only way to do great work is to love what you do.",Steve Jobs,motivation
+"Life is what happens to you while you're busy making other plans.",John Lennon,life
+"The future belongs to those who believe in the beauty of their dreams.",Eleanor Roosevelt,dreams
+"It is during our darkest moments that we must focus to see the light.",Aristotle,hope
+"You are never too old to set another goal or to dream a new dream.",C.S. Lewis,dreams
+"The way to get started is to quit talking and begin doing.",Walt Disney,action
+"Don't let yesterday take up too much of today.",Will Rogers,present
+"You learn more from failure than from success.",Unknown,growth
+"Success is not final, failure is not fatal: it is the courage to continue that counts.",Winston Churchill,courage
+"Believe you can and you're halfway there.",Theodore Roosevelt,belief
+"The only impossible journey is the one you never begin.",Tony Robbins,journey
+"In the middle of difficulty lies opportunity.",Albert Einstein,opportunity
+"What lies behind us and what lies before us are tiny matters compared to what lies within us.",Ralph Waldo Emerson,inner_strength
+"The best time to plant a tree was 20 years ago. The second best time is now.",Chinese Proverb,action
+"Your limitation—it's only your imagination.",Unknown,imagination
+"Push yourself, because no one else is going to do it for you.",Unknown,motivation
+"Great things never come from comfort zones.",Unknown,growth
+"Dream it. Wish it. Do it.",Unknown,dreams
+"Success doesn't just find you. You have to go out and get it.",Unknown,success
+"The harder you work for something, the greater you'll feel when you achieve it.",Unknown,achievement
+"Dream bigger. Do bigger.",Unknown,dreams
+"Don't stop when you're tired. Stop when you're done.",Unknown,perseverance
+"Wake up with determination. Go to bed with satisfaction.",Unknown,determination
+"Do something today that your future self will thank you for.",Unknown,future
+"Little things make big days.",Unknown,appreciation
+"It's going to be hard, but hard does not mean impossible.",Unknown,perseverance
+"Don't wait for opportunity. Create it.",Unknown,opportunity
+"Sometimes we're tested not to show our weaknesses, but to discover our strengths.",Unknown,strength
+"The key to success is to focus on goals, not obstacles.",Unknown,focus
+"Dream it. Believe it. Build it.",Unknown,dreams
+"You don't have to be great to get started, but you have to get started to be great.",Les Brown,beginning
+"A year from now you may wish you had started today.",Karen Lamb,action
+"The only person you are destined to become is the person you decide to be.",Ralph Waldo Emerson,choice
+"It does not matter how slowly you go as long as you do not stop.",Confucius,persistence
+"Everything you've ever wanted is on the other side of fear.",George Addair,fear
+"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",Christian D. Larson,self_belief
+"The future depends on what we do in the present.",Mahatma Gandhi,present
+"You are capable of more than you know.",Unknown,potential
+"Progress, not perfection.",Unknown,progress
+"Turn your wounds into wisdom.",Oprah Winfrey,wisdom
+"The comeback is always stronger than the setback.",Unknown,resilience
+"Difficult roads often lead to beautiful destinations.",Unknown,journey
+"Your only limit is your mind.",Unknown,mindset
+"Stars can't shine without darkness.",Unknown,hope
+"Be yourself; everyone else is already taken.",Oscar Wilde,authenticity
+"Life is 10% what happens to you and 90% how you react to it.",Charles R. Swindoll,attitude
+"The greatest glory in living lies not in never falling, but in rising every time we fall.",Nelson Mandela,resilience
+"The way to get started is to quit talking and begin doing.",Walt Disney,action
+"If life were predictable it would cease to be life, and be without flavor.",Eleanor Roosevelt,life
+"Your time is limited, so don't waste it living someone else's life.",Steve Jobs,authenticity

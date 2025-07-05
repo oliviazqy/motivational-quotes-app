@@ -10,18 +10,16 @@ Deployed on [Vercel](https://motivational-quotes-nydqsxfee-oliviazhangs-projects
 
 ### `🚀 Features`
 - Displays motivational quotes randomly.
-- Quotes loaded from a CSV file.
+- Quotes loaded from a curated list and open APIs
 - Public API endpoints to fetch a random quote (/api/quote).
-- HTML template rendered with Flask.
-- Deployed seamlessly on Vercel.
 
 ### `📂 Project Structure`
 ```
-├── api.py               # Flask app
+├── api.py               # FastAPI app
 ├── README.md
 ├── requirements.txt     # Python dependencies
 ├── sample_quotes_csv.txt# Quotes source
-├── templates/           # HTML templates
+├── templates/           # HTML templates using Jinja2
 └── vercel.json          # Vercel config
 ```
 ### `🌐 Deployment`
